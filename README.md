@@ -1,2 +1,8 @@
-# WiChronos
-Contains the pin diagrams, codes and other relevant material for WiChronos
+WiChronos Description: WiChronos.txt
+  - Explain time interval modulion
+  - Anchor symbols
+  - Timing diagram
+  - Experimental set up
+Pin Diagram: Pin_Diagram.txt
+Code for TX: WiChronos_TX.c
+Code for RX: WiChronos_RC.c
