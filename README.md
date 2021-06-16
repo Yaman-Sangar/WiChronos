@@ -1,4 +1,4 @@
-WiChronos Description: WiChronos.txt
+WiChronos Description: WiChronos.pdf
   - Explain time interval modulion
   - Anchor symbols
   - Timing diagram
